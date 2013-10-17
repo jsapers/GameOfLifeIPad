@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesStackState
+   version = "1.0">
+   <StackStates>
+      <StackState
+         stackFrameDescription = "-[ColonyDetailViewController viewWillAppear:]:ColonyDetailViewController.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[DetailViewController viewWillAppear:]:DetailViewController.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[ColonyView setColor:]:ColonyView.m">
+         <expressions>
+            <expression
+               value = "color[0]">
+            </expression>
+            <expression
+               value = "color[1]">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[ColonyView drawRect:]:ColonyView.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[ColonyView locationAsCells:]:ColonyView.m">
+         <expressions>
+            <expression
+               value = "loc.x/(bounds.size.width/50)">
+            </expression>
+            <expression
+               value = "loc.y/(bounds.size.height/50)">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[DetailViewController viewDidLoad]:DetailViewController.m">
+         <expressions>
+            <expression
+               value = "cellColor[2]">
+            </expression>
+            <expression
+               value = "cellColor[0]">
+            </expression>
+            <expression
+               value = "cellColor[1]">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[DetailViewController firstTouch:]:DetailViewController.m">
+         <expressions>
+            <expression
+               value = "cellColor[1]">
+            </expression>
+            <expression
+               value = "bColor[0]">
+            </expression>
+            <expression
+               value = "cellColor[2]">
+            </expression>
+            <expression
+               value = "cellColor[0]">
+            </expression>
+            <expression
+               value = "bColor[1]">
+            </expression>
+            <expression
+               value = "bColor[2]">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[ColonyDetailViewController setSliderValueRed:Green:Blue:]:ColonyDetailViewController.m">
+         <expressions>
+            <expression
+               value = "bBlue.value">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[ColonyDetailViewController sliderValueChanged:]:ColonyDetailViewController.m">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[DetailViewController viewWillAppear:]:(null)">
+         <expressions>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[DetailViewController setUseNum:]:DetailViewController.m">
+         <expressions>
+            <expression
+               value = "bColor[2]">
+            </expression>
+            <expression
+               value = "bColor[0]">
+            </expression>
+            <expression
+               value = "bColor[1]">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[ColonyDetailViewController getBackroundColor]:ColonyDetailViewController.m">
+         <expressions>
+            <expression
+               value = "bColor[0]">
+            </expression>
+            <expression
+               value = "bRed.value">
+            </expression>
+         </expressions>
+      </StackState>
+   </StackStates>
+</VariablesStackState>
